@@ -13,7 +13,7 @@ By the end of this exercise, you should feel confident using these basic CLI com
 ## Expected Project Structure 🏗️
 
 ```plaintext
-CLIActivity/
+cli_basics/
 └── No files needed
 ```
 
