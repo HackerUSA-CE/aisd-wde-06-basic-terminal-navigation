@@ -30,11 +30,11 @@ cli_basics/
    - [ ] To ensure you're starting from the home directory, enter the following command in your terminal:
 
 ```bash
-cd ~
+cd
 ```
 
 **Explanation:**
-- `cd ~` changes the current directory to your home directory.
+- `cd` changes the current directory to your home directory.
 
 ## 3. **Check Your Current Directory**
    - [ ] Verify your current directory by using the `pwd` (print working directory) command:
