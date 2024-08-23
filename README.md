@@ -96,6 +96,16 @@ code .
 **Explanation:**
 - `code .` opens the current directory in Visual Studio Code. If VS Code is not installed, this command will not work, and you may need to install it or open the directory manually.
 
+## 9. **Navigate to the Parent Directory**
+   - [ ] After opening the file in Visual Studio Code, navigate to the parent directory using the following command:
+
+```bash
+cd ..
+```
+
+**Explanation:**
+- `cd ..` changes the current directory to the parent directory of your current location.
+
 ##
 
 **Great job! You’ve successfully navigated your file system and opened a directory in VS Code using CLI commands.**
