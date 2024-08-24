@@ -137,13 +137,6 @@ cd ..
 - `cd ..` changes the current directory to the parent directory of your current location.
 - In this case, after running `cd ..`, you will move from `cli_basics_2` to its parent directory, `cli_basics`
 
-## 13. **Commit and Push to Github**
-- [ ] Commit and push your work to Github.
-
-##
-
-**Great job! You’ve successfully navigated your file system and opened a directory in VS Code using CLI commands.**
-
 # Conclusion 📄
 
 In this activity, you learned how to perform basic navigation tasks in the command line using Git Bash on Windows and Terminal on macOS. These commands are fundamental for managing files and directories efficiently in a terminal environment. Mastering these will improve your workflow and prepare you for more advanced CLI operations in the future.
