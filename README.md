@@ -96,7 +96,37 @@ code .
 **Explanation:**
 - `code .` opens the current directory in Visual Studio Code. If VS Code is not installed, this command will not work, and you may need to install it or open the directory manually.
 
-## 9. **Navigate to the Parent Directory**
+## 9. **Create a New Directory**
+   - [ ] Now, create a new directory named `cli_basics_2` using the `mkdir` command:
+
+```bash
+mkdir cli_basics_2
+```
+
+**Explanation:**
+- `mkdir cli_basics_2` creates a new directory named `cli_basics_2` in your current location.
+
+## 10. **List the Contents Again**
+   - [ ] After creating the new directory, list the contents of the current directory again using the `ls` command:
+
+```bash
+ls
+```
+
+**Explanation:**
+- Running `ls` again will now show the `cli_basics_2` directory that you just created.
+
+## 11. **Navigate into the New Directory**
+   - [ ] Change your working directory to the newly created `cli_basics_2` directory:
+
+```bash
+cd cli_basics_2
+```
+
+**Explanation:**
+- `cd cli_basics_2` changes the current directory to `cli_basics_2`.
+
+## 12. **Navigate to the Parent Directory**
    - [ ] After opening the file in Visual Studio Code, navigate to the parent directory using the following command:
 
 ```bash
@@ -105,6 +135,10 @@ cd ..
 
 **Explanation:**
 - `cd ..` changes the current directory to the parent directory of your current location.
+- In this case, after running `cd ..`, you will move from `cli_basics_2` to its parent directory, `cli_basics`
+
+## 13. **Commit and Push to Github**
+- [ ] Commit and push your work to Github.
 
 ##
 
