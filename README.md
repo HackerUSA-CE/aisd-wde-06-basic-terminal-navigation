@@ -6,7 +6,7 @@
 
 ## Description 📄
 
-In this activity, we will explore basic CLI (Command-Line Interface) navigation commands that are essential for managing files and directories in a command-line environment. You’ll learn how to navigate to the home directory, check your current location, list directory contents, create directories, and open a directory in VS Code.
+In this activity, you will explore basic CLI (Command-Line Interface) navigation commands that are essential for managing files and directories in a command-line environment. You’ll learn how to navigate to the home directory, check your current location, list directory contents, create directories, and open a directory in VS Code.
 
 By the end of this exercise, you should feel confident using these basic CLI commands to navigate and manage your file system effectively.
 
